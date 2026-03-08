@@ -1,0 +1,9 @@
+{
+  "timestamp": 1773001564647,
+  "error_type": "RUNTIME_ERROR",
+  "filename": "https://2defd092-4861-421b-a5f2-13c2f54e407d.lovableproject.com/node_modules/.vite/deps/chunk-3TFVT2CW.js?v=4c3e3b9d",
+  "lineno": 1074,
+  "colno": 29,
+  "stack": "TypeError: Cannot read properties of null (reading 'useRef')\n    at Object.useRef (https://2defd092-4861-421b-a5f2-13c2f54e407d.lovableproject.com/node_modules/.vite/deps/chunk-3TFVT2CW.js?v=4c3e3b9d:1074:29)\n    at TooltipProvider (https://2defd092-4861-421b-a5f2-13c2f54e407d.lovableproject.com/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=4c3e3b9d:65:34)\n    at renderWithHooks (https://2defd092-4861-421b-a5f2-13c2f54e407d.lovableproject.com/node_modules/.vite/deps/chunk-R6S4VRB5.js?v=aaa9143f:11548:26)\n    at mountIndeterminateComponent (https://2defd092-4861-421b-a5f2-13c2f54e407d.lovableproject.com/node_modules/.vite/deps/chunk-R6S4VRB5.js?v=aaa9143f:14926:21)\n    at beginWork (https://2defd092-4861-421b-a5f2-13c2f54e407d.lovableproject.com/node_modules/.vite/deps/chunk-R6S4VRB5.js?v=aaa9143f:15914:22)\n    at HTMLUnknownElement.callCallback2 (https://2defd092-4861-421b-a5f2-13c2f54e407d.lovableproject.com/node_modules/.vite/deps/chunk-R6S4VRB5.js?v=aaa9143f:3674:22)\n    at Object.invokeGuardedCallbackDev (https://2defd092-4861-421b-a5f2-13c2f54e407d.lovableproject.com/node_modules/.vite/deps/chunk-R6S4VRB5.js?v=aaa9143f:3699:24)\n    at invokeGuardedCallback (https://2defd092-4861-421b-a5f2-13c2f54e407d.lovableproject.com/node_modules/.vite/deps/chunk-R6S4VRB5.js?v=aaa9143f:3733:39)\n    at beginWork$1 (https://2defd092-4861-421b-a5f2-13c2f54e407d.lovableproject.com/node_modules/.vite/deps/chunk-R6S4VRB5.js?v=aaa9143f:19765:15)\n    at performUnitOfWork (https://2defd092-4861-421b-a5f2-13c2f54e407d.lovableproject.com/node_modules/.vite/deps/chunk-R6S4VRB5.js?v=aaa9143f:19198:20)",
+  "has_blank_screen": true
+}
